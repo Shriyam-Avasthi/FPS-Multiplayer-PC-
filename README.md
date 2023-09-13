@@ -1,4 +1,3 @@
 # FPS-Multiplayer-PC-
-A basic working prototype of the multiplayer FPS Game developed using unity.
-The project uses Photon Engine integration for server based connections.
+A basic working prototype of a dedicated server-based real-time multiplayer FPS Game developed using UnityEngine and PhotonEngine.
 
